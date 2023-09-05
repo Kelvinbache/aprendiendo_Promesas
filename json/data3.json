@@ -1,0 +1,5 @@
+[
+    {"use":"juan","lastName":"perez","punto":true},
+    {"use":"terri","lastName":"mesa","punto":false},
+    {"use":"booster","lastName":"bracho","punto":false}
+]
